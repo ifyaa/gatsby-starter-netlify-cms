@@ -1,9 +1,9 @@
 ---
 templateKey: 'product-page'
 path: /products
-title: Our Coffee
+title: 브랜드 소개
 image: /img/jumbotron.jpg
-heading: Great coffee with a conscience
+heading: 라이센스 가능한 상표를 소개합니다.
 description: >-
   Kaldi is the ultimate spot for coffee lovers who want to learn about their
   java’s origin and support the farmers that grew it. We take coffee production,

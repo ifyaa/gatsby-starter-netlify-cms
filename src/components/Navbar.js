@@ -73,7 +73,7 @@ const Navbar = class extends React.Component {
                 Contact
               </Link>
               <Link className="navbar-item" to="/contact/examples">
-                Form Examples
+                우리는...
               </Link>
             </div>
             <div className="navbar-end has-text-centered">
