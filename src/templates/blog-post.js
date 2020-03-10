@@ -5,6 +5,7 @@ import Helmet from 'react-helmet'
 import { graphql, Link } from 'gatsby'
 import Layout from '../components/Layout'
 import Content, { HTMLContent } from '../components/Content'
+import Disqus from 'disqus-react'
 
 export const BlogPostTemplate = ({
   content,
@@ -15,6 +16,13 @@ export const BlogPostTemplate = ({
   helmet,
 }) => {
   const PostContent = contentComponent || Content
+  
+  const disqusShortname = 'wp-admin'
+  const disqusConfig = {
+  url: 'https://ifyaa.netlify.com',
+  identifier: '',
+  title: 'noyes',
+  }
 
   return (
     <section className="section">
@@ -39,9 +47,11 @@ export const BlogPostTemplate = ({
                 </ul>
               </div>
             ) : null}
+           <Disqus.DiscussionEmbed shortname={disqusShortname} config={disqusConfig} />
           </div>
         </div>
       </div>
+ 
     </section>
   )
 }
