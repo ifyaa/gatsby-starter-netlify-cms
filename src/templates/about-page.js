@@ -3,10 +3,18 @@ import PropTypes from 'prop-types'
 import { graphql } from 'gatsby'
 import Layout from '../components/Layout'
 import Content, { HTMLContent } from '../components/Content'
+import Disqus from 'disqus-react'
 
 export const AboutPageTemplate = ({ title, content, contentComponent }) => {
   const PageContent = contentComponent || Content
-
+  
+  const disqusShortname = 'wp-admin'
+  const disqusConfig = {
+  url: 'https://ifyaa.netlify.com',
+  identifier: '',
+  title: 'noyes',
+  }
+    
   return (
     <section className="section section--gradient">
       <div className="container">
@@ -17,6 +25,7 @@ export const AboutPageTemplate = ({ title, content, contentComponent }) => {
                 {title}
               </h2>
               <PageContent className="content" content={content} />
+              <Disqus.DiscussionEmbed shortname={disqusShortname} config={disqusConfig} />
             </div>
           </div>
         </div>
