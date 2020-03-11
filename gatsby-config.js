@@ -2,7 +2,7 @@ module.exports = {
   siteMetadata: {
     title: 'Gatsby + Netlify CMS Starter',
     description:
-      '이걸 수정하면 git에 올라가려나... status에 안뜨는데....터미널에 올라갔는데...원격엔 안뜨네...돌겠네..',
+      '이걸 수정하면 git에 올라가려나... 올라갔고 online에는 뜨는데..이건....',
   },
   plugins: [
     {
