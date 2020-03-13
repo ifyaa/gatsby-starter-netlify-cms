@@ -1,7 +1,8 @@
 import React from 'react'
 import { Link } from 'gatsby'
-import github from '../img/github-icon.svg'
+import Tawk from '../../static/img/tawk.svg'
 import logo from '../img/logo.svg'
+
 
 const Navbar = class extends React.Component {
   constructor(props) {
@@ -61,19 +62,19 @@ const Navbar = class extends React.Component {
           >
             <div className="navbar-start has-text-centered">
               <Link className="navbar-item" to="/about">
-                About
+                우리는...
               </Link>
               <Link className="navbar-item" to="/products">
-                Products
+                라이센스 
               </Link>
               <Link className="navbar-item" to="/blog">
-                Blog
+                왕홍
               </Link>
               <Link className="navbar-item" to="/contact">
-                Contact
+                협력업체
               </Link>
               <Link className="navbar-item" to="/contact/examples">
-                우리는...
+                커무니티
               </Link>
             </div>
             <div className="navbar-end has-text-centered">
@@ -82,14 +83,22 @@ const Navbar = class extends React.Component {
                 href="https://1004if.netlify.com"
                 target="_blank"
                 rel="noopener noreferrer"
+              >noyes
+              </a>
+        
+              <a 
+                className="navbar-item"
+                href="https://tawk.to/chat/5e65e0e9c32b5c19173a4db1/1e2vnlqkc" 
+                target="_blank"
+                rel="noopener noreferrer"
               >
                 <span className="icon">
-                  <img src={github} alt="Github" />
+                  <img src={Tawk} alt="Tawk" />
                 </span>
               </a>
             </div>
           </div>
-        </div>
+          </div>
       </nav>
     )
   }

@@ -1,9 +1,9 @@
 ---
 templateKey: 'product-page'
 path: /products
-title: 브랜드 소개
-image: /img/jumbotron.jpg
-heading: 라이센스 가능한 상표를 소개합니다.
+title: 라이센스 상표
+image: /img/jumbotron.png
+heading: 브랜드런칭과 라이센스 그리고 생산...
 description: >-
   Kaldi is the ultimate spot for coffee lovers who want to learn about their
   java’s origin and support the farmers that grew it. We take coffee production,
@@ -11,14 +11,14 @@ description: >-
   anyone.
 intro:
   blurbs:
-    - image: /img/coffee.png
+    - image: /img/yibu01.png
       text: >
         We sell green and roasted coffee beans that are sourced directly from
         independent farmers and farm cooperatives. We’re proud to offer a
         variety of coffee beans grown with great care for the environment and
         local communities. Check our post or contact us directly for current
         availability.
-    - image: /img/coffee-gear.png
+    - image: /img/mao01.png
       text: >
         We offer a small, but carefully curated selection of brewing gear and
         tools for every taste and experience level. No matter if you roast your
@@ -45,21 +45,21 @@ intro:
     production, roasting and brewing seriously and we’re glad to pass that
     knowledge to anyone. This is an edit via identity...
 main:
-  heading: Great coffee with no compromises
+  heading: 스포츠의류를 위한 브랜드
   description: >
-    We hold our coffee to the highest standards from the shrub to the cup.
+    이미지가 올라가지 않는 이유는 무엇일까 st standards from the shrub to the cup.
     That’s why we’re meticulous and transparent about each step of the coffee’s
     journey. We personally visit each farm to make sure the conditions are
     optimal for the plants, farmers and the local environment.
   image1:
     alt: A close-up of a paper filter filled with ground coffee
-    image: /img/products-grid3.jpg
+    image: /img/img5.png
   image2:
     alt: A green cup of a coffee on a wooden table
-    image: /img/products-grid2.jpg
+    image: /img/img1.png
   image3:
     alt: Coffee beans
-    image: /img/products-grid1.jpg
+    image: /img/img7.png
 testimonials:
   - author: Elisabeth Kaurismäki
     quote: >-
@@ -71,10 +71,10 @@ testimonials:
       stance on empowering farmers and transparency.
 full_image: /img/products-full-width.jpg
 pricing:
-  heading: Monthly subscriptions
+  heading: 무슨말을 해야하는지 모르겠다
   description: >-
-    We make it easy to make great coffee a part of your life. Choose one of our
-    monthly subscription plans to receive great coffee at your doorstep each
+    우리는 언제나 일에대해서는 최선을 다한다. 하지만 항상 결과에 만족을 모른다. Choose one of our
+    사람들이 열심히 일해서 얻어지는 수익의 일부만을 원할 뿐..절대로 많은 금전의 요구를 하지 않는다 doorstep each
     month. Contact us about more details and payment info.
   plans:
     - description: Perfect for the drinker who likes to enjoy 1-2 cups per day.
@@ -82,20 +82,20 @@ pricing:
         - 3 lbs of coffee per month
         - Green or roasted beans"
         - One or two varieties of beans"
-      plan: Small
+      plan: 의류품목
       price: '50'
     - description: 'Great for avid drinkers, java-loving couples and bigger crowds'
       items:
         - 6 lbs of coffee per month
         - Green or roasted beans
         - Up to 4 different varieties of beans
-      plan: Big
+      plan: 가방, 모자, 신발등 패션
       price: '80'
     - description: Want a few tiny batches from different varieties? Try our custom plan
       items:
         - Whatever you need
         - Green or roasted beans
         - Unlimited varieties
-      plan: Custom
+      plan: 스포츠용품 
       price: '??'
 ---

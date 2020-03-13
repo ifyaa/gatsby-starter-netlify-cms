@@ -1,19 +1,20 @@
 ---
 templateKey: 'about-page'
 path: /about
-title: About our values
+title: 우리가 하는일에 대해서
 ---
-### Shade-grown coffee
-Coffee is a small tree or shrub that grows in the forest understory in its wild form, and traditionally was grown commercially under other trees that provided shade. The forest-like structure of shade coffee farms provides habitat for a great number of migratory and resident species.
+### 브랜드 런칭대행
+소규모브랜드 런칭을 하기위해 필요한 모든업무를 대행합니다. 국내생산에서 중국을 비롯한 베트남 캄보디아를 비롯한 동남아에 생산공장을 갖춘 협력업체를 소개하고, 런칭에 필요한 모든 업무를 연결해드립니다.  
 
-### Single origin
-Single-origin coffee is coffee grown within a single known geographic origin. Sometimes, this is a single farm or a specific collection of beans from a single country. The name of the coffee is then usually the place it was grown to whatever degree available.
+### 브랜드 라이센스
+고전의류브랜드인 논노, 나인투나인 그리고 if, 스포츠브랜드인 cambridge mania, londenBridge등의 상표를 의류 가방 신발등 패션제품은 물론이고 선그라스 모자 화장품 스포츠와 낚시용품등에 사용할 수있는 브랜드를 연결해드립니다.
+중국상표검색과 상표라이센스를 연결합니다.
 
-### Sustainable farming
-Sustainable agriculture is farming in sustainable ways based on an understanding of ecosystem services, the study of relationships between organisms and their environment. What grows where and how it is grown are a matter of choice and careful consideration for nature and communities.
+### 생산및 소싱업체 연결
+의류, 가방 신발등의 패션상품을 비롯한 모든 제품의 국내와 해외생산업체와 중국광조우등에서 활동하는 소싱업체를 연결해드립니다.
 
-### Direct sourcing
-Direct trade is a form of sourcing practiced by some coffee roasters. Advocates of direct trade practices promote direct communication and price negotiation between buyer and farmer, along with systems that encourage and incentivize quality.
+### 왕홍소개
+중국에서 활동하는 왕홍은 물론이고 한국에서 활동할 수 있는 왕홍을 개인은 물론 프로모션회사와도 직접연결해드립니다. 중국의 마케팅업체를 직접연결합니다.
 
-### Reinvest profits
-We want to truly empower the communities that bring amazing coffee to you. That’s why we reinvest 20% of our profits into farms, local businesses and schools everywhere our coffee is grown. You can see the communities grow and learn more about coffee farming on our blog.
+### 생산업체 사이트제작
+생산업체 원단업체 사이트가 필요한 업체에 사이트를 제작해드립니다. 
