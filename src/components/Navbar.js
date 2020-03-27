@@ -62,7 +62,7 @@ const Navbar = class extends React.Component {
           >
             <div className="navbar-start has-text-centered">
               <Link className="navbar-item" to="/about">
-                우리는...
+                우리는
               </Link>
               <Link className="navbar-item" to="/products">
                 라이센스 
@@ -91,7 +91,7 @@ const Navbar = class extends React.Component {
                 href="https://tawk.to/chat/5e65e0e9c32b5c19173a4db1/1e2vnlqkc" 
                 target="_blank"
                 rel="noopener noreferrer"
-              >
+              >채팅--
                 <span className="icon">
                   <img src={Tawk} alt="Tawk" />
                 </span>
