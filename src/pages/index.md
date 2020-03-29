@@ -2,7 +2,7 @@
 templateKey: index-page
 title: ifyaa는
 image: /img/home-jumbotron.jpg
-heading: 없다
+heading: .
 subheading: 주식회사 캠브리지의 인터넷 브랜드입니다.
 mainpitch:
   title: 왕홍의 연결을 한다구요
