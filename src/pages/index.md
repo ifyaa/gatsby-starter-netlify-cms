@@ -6,7 +6,7 @@ heading: 없다
 subheading: 주식회사 캠브리지의 인터넷 브랜드입니다.
 mainpitch:
   title: 왕홍의 연결을 한다구요
-  description: 이것도 없고
+  description: .
 description: >-
   주식회사 캠브리지는 2002년부터 중국베이징에 사무실을 오픈하여 지금까지 중국생산과 중국내 영업망 구축,  그리고 중국의 상표권 라이센싱등을
   주업무로 하고 있으며 국내에서 cambridge mania라는 상표로   스포츠 의류를 생산하여 판매하고 있습니다. 국내에서 생산되는
