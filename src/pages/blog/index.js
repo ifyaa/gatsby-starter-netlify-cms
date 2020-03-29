@@ -3,6 +3,7 @@ import React from 'react'
 import Layout from '../../components/Layout'
 import BlogRoll from '../../components/BlogRoll'
 
+
 export default class BlogIndexPage extends React.Component {
   render() {
     return (
@@ -13,7 +14,8 @@ export default class BlogIndexPage extends React.Component {
             backgroundImage: `url('/img/blog-index.jpg')`,
           }}
         >
-          <h1
+         
+          <h2
             className="has-text-weight-bold is-size-1"
             style={{
               boxShadow: '0.5rem 0 0 #f40, -0.5rem 0 0 #f40',
@@ -23,7 +25,7 @@ export default class BlogIndexPage extends React.Component {
             }}
           >
             왕홍이야기
-          </h1>
+          </h2>
         </div>
         <section className="section">
           <div className="container">
@@ -32,6 +34,7 @@ export default class BlogIndexPage extends React.Component {
             </div>
           </div>
         </section>
+     
       </Layout>
     )
   }

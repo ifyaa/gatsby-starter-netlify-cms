@@ -5,12 +5,12 @@ module.exports = {
       '이걸 수정하면 git에 올라가려나... 올라갔고 online에는 뜨는데..이건....',
   },
   plugins: [
-    // {
-    //   resolve: `gatsby-plugin-tawk`,
-    //   options: {
-    //     tawkId: '5e65e0e9c32b5c19173a4db1',
-    //   },
-    // },
+    {
+      resolve: `gatsby-plugin-tawk`,
+      options: {
+        tawkId: '5e65e0e9c32b5c19173a4db1',
+      },
+    },
     'gatsby-plugin-react-helmet',
     'gatsby-plugin-sass',
     {

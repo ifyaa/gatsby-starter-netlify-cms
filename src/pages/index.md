@@ -32,7 +32,7 @@ intro:
       text: >
         중국을 생각하지 않는 영업은 있을 수 없습니다. 중국영업을 생각하신다면 왕홍을 , 그리고 인터넷 
         플렛폼을 염두에 두지 않을수 없습니다.
-  heading: What we offer
+  heading: 여긴 어딜까  pages/index.ma
   description: >
     Kaldi is the ultimate spot for coffee lovers who want to learn about their
     java's origin and support the farmers that grew it. We take coffee
